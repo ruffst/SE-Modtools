@@ -17,10 +17,10 @@ namespace XML_Replacer
 
 			switch (command)
 			{
-				case "Path":
+				case "help":
 					//Push();
 					break;
-				case "commit" when args.Length == 3 && args[1] == "-m":
+				case "path" when args.Length == 3 && args[1] == "-p":
 					//Commit(args[2]);
 					break;
 				default:
