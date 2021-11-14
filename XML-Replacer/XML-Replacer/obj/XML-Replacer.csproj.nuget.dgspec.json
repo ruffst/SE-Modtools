@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Programming\\C#\\XML-Replacer\\XML-Replacer\\XML-Replacer.csproj": {}
+    "C:\\Users\\Rafael\\Documents\\GitHub\\SE-Modtools\\XML-Replacer\\XML-Replacer\\XML-Replacer.csproj": {}
   },
   "projects": {
-    "H:\\Programming\\C#\\XML-Replacer\\XML-Replacer\\XML-Replacer.csproj": {
+    "C:\\Users\\Rafael\\Documents\\GitHub\\SE-Modtools\\XML-Replacer\\XML-Replacer\\XML-Replacer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Programming\\C#\\XML-Replacer\\XML-Replacer\\XML-Replacer.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\GitHub\\SE-Modtools\\XML-Replacer\\XML-Replacer\\XML-Replacer.csproj",
         "projectName": "XML-Replacer",
-        "projectPath": "H:\\Programming\\C#\\XML-Replacer\\XML-Replacer\\XML-Replacer.csproj",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\GitHub\\SE-Modtools\\XML-Replacer\\XML-Replacer\\XML-Replacer.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "H:\\Programming\\C#\\XML-Replacer\\XML-Replacer\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\GitHub\\SE-Modtools\\XML-Replacer\\XML-Replacer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

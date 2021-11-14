@@ -1,0 +1,13 @@
+C:\Users\Rafael\Documents\GitHub\SE-Modtools\XML-Replacer\XML-Replacer\bin\Debug\netcoreapp3.1\XML-Replacer.exe
+C:\Users\Rafael\Documents\GitHub\SE-Modtools\XML-Replacer\XML-Replacer\bin\Debug\netcoreapp3.1\XML-Replacer.deps.json
+C:\Users\Rafael\Documents\GitHub\SE-Modtools\XML-Replacer\XML-Replacer\bin\Debug\netcoreapp3.1\XML-Replacer.runtimeconfig.json
+C:\Users\Rafael\Documents\GitHub\SE-Modtools\XML-Replacer\XML-Replacer\bin\Debug\netcoreapp3.1\XML-Replacer.runtimeconfig.dev.json
+C:\Users\Rafael\Documents\GitHub\SE-Modtools\XML-Replacer\XML-Replacer\bin\Debug\netcoreapp3.1\XML-Replacer.dll
+C:\Users\Rafael\Documents\GitHub\SE-Modtools\XML-Replacer\XML-Replacer\bin\Debug\netcoreapp3.1\XML-Replacer.pdb
+C:\Users\Rafael\Documents\GitHub\SE-Modtools\XML-Replacer\XML-Replacer\obj\Debug\netcoreapp3.1\XML-Replacer.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\GitHub\SE-Modtools\XML-Replacer\XML-Replacer\obj\Debug\netcoreapp3.1\XML-Replacer.AssemblyInfoInputs.cache
+C:\Users\Rafael\Documents\GitHub\SE-Modtools\XML-Replacer\XML-Replacer\obj\Debug\netcoreapp3.1\XML-Replacer.AssemblyInfo.cs
+C:\Users\Rafael\Documents\GitHub\SE-Modtools\XML-Replacer\XML-Replacer\obj\Debug\netcoreapp3.1\XML-Replacer.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\GitHub\SE-Modtools\XML-Replacer\XML-Replacer\obj\Debug\netcoreapp3.1\XML-Replacer.dll
+C:\Users\Rafael\Documents\GitHub\SE-Modtools\XML-Replacer\XML-Replacer\obj\Debug\netcoreapp3.1\XML-Replacer.pdb
+C:\Users\Rafael\Documents\GitHub\SE-Modtools\XML-Replacer\XML-Replacer\obj\Debug\netcoreapp3.1\XML-Replacer.genruntimeconfig.cache
